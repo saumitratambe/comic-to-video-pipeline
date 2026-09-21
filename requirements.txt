@@ -1,0 +1,10 @@
+PySide6
+requests
+beautifulsoup4
+lxml
+natsort
+Pillow
+numpy
+opencv-python
+pytesseract
+edge-tts
